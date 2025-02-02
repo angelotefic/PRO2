@@ -1,3 +1,7 @@
+/*
+ * Created by angelotefic on 02 / 02 / 25.
+ */
+
 #ifndef STATIC_LIST_H  
 #define STATIC_LIST_H  
 
